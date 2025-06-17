@@ -1,7 +1,8 @@
 Formulaire projet – Portfolio JohannR.fr
 
 Ce projet est un formulaire multi-étapes développé en React et Tailwind, destiné à recueillir les besoins d’un client souhaitant créer ou refondre un site web.
-Il est utilisé en démo sur mon portfolio johannr.fr comme exemple d’outil personnalisé que je peux concevoir pour un indépendant, une PME ou une agence.
+Il est utilisé en démo sur mon portfolio johannr.fr en raison des limites du plan gratuit zapier.
+
 ✨ Fonctionnalités
 
     ✅ Formulaire multi-étapes clair et progressif (6 étapes)
@@ -32,6 +33,7 @@ Il est utilisé en démo sur mon portfolio johannr.fr comme exemple d’outil pe
 
 🧪 Le formulaire est visible ici :
 👉 formulaire-portfolio.vercel.app
+👉 (https://formulaire.johannr.fr/)
 
 📌 Attention : les soumissions via Zapier sont actives temporairement (limites du plan gratuit).
 📁 Organisation du projet
@@ -46,15 +48,3 @@ PdfGenerator.tsx # Création et téléchargement du PDF
 sendToZapier.ts # Envoi des données à l’API Zapier
 /public
 /assets # Logos, icônes...
-
-📌 À propos
-
-Ce projet me permet de montrer ma capacité à concevoir des outils sur-mesure, mêlant :
-
-    UX claire
-
-    Intégration d’outils no-code comme Zapier
-
-    Génération de documents dynamiques
-
-    Automatisation de la communication (emails, base de données)
